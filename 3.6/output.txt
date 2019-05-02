@@ -1,0 +1,6 @@
+Writing addition value in file..
+10+7i
+Writing subtraction value in file..
+0+1i
+Writing multiplication value in file..
+25+12i
